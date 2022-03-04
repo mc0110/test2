@@ -1,8 +1,11 @@
 ---
 title: ESP Breadboard Testkit
-description: First trial of presentation with GitHub Pages - under construction.
+description: ESP32 DEVKIT for BREADBOARDS
 layout: default
 ---
+
+## First of all
+> This site is under construction. I would therefore like to apologise in advance if something is not presented correctly. But I am very interested in constantly improving my presentation. Therefore, all comments are very welcome.
 
 ## Motivation
 

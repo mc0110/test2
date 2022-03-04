@@ -4,15 +4,16 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-# Working space
-[Link to markdown page](./index_old.html).
-
 [Link to another page](./another-page.html).
 
+There should be whitespace between paragraphs.
 
-# Motivation
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Zweiter Versuch, etwas zu synchronisieren
 
-Das Protoyping einer Schaltung macht das Breadboard zu einem unentbehrlichen Helfer. Für den Aufbau von Schaltungen um einen ESP32 ist es hilfreich, einen fertigen ESP-Design zu nutzen.
+# Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 

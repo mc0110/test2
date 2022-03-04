@@ -1,7 +1,8 @@
 ---
+title: ESP Breadboard Testkit
+description: First trial of presentation with GitHub Pages - under construction.
 layout: default
 ---
-
 
 ## Motivation
 
@@ -9,7 +10,7 @@ Protoyping a circuit makes the breadboard an indispensable helper. When building
 But there is a problem with that. The designs I know are using 2.54 PINHEAD, but unfortunately they only fit on the standard breadboards in such a way that all the holes are occupied. They are therefore not usable. As a consequence, cable bridges are often used. However, these have the major disadvantage that they make circuits very susceptible to interference. For example, when trying to power an ESP-DEVKIT externally and not via USB, I just observed the crash due to the chip-internal BROWNOUT detection when initialising the WiFi connection.
 
 
-# Working space
+## Working space
 [Link to markdown page](./index_old.html).
 
 [Link to another page](./another-page.html).

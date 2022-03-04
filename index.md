@@ -1,6 +1,4 @@
 ---
-title: ESP breadboard testkit
-description: First trial of presentation with GitHub Pages - under construction.
 layout: default
 ---
 
